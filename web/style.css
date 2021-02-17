@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    color: peru;
+}
+
+li {
+   display: inline;
+   border-top: 2px solid black;
+   border-bottom: 2px solid black;
+    
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: gainsboro;
+  }
+
+.container {
+    text-align: center;
+}
+
+.card{
+ max-height: 10px;
+ max-width:10px
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 40px;
+    background-color: white;
+    padding: 10px;
+  }
+
+  .formclass {
+    float: right;
+
+  }

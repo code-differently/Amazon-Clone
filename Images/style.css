@@ -1,11 +1,11 @@
-.navbar-nav {
+.navbar navbar-expand-lg navbar-light bg-light {
     float:none;
     margin:0 auto;
-    display: block;
+    display: inline;
     text-align: center;
 }
 
-.navbar-nav > li {
-    display: inline-block;
-    float:none;
+.btn-group {
+    justify-self: right;
 }
+

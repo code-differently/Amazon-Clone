@@ -1,4 +1,4 @@
-# Amazone Clone
+# Amazon Clone
 
 You'll be creating your own version of Amazon! This app will consist of a front end JS webpage and a backend Express server.
 
